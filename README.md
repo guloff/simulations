@@ -104,4 +104,4 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](./LICENSE) file for more details.
